@@ -1,6 +1,6 @@
 {
   "required" : {
-    "ProjectName" : "Project Name",
+    "ProjectName" : "Project Name"
   },
   "default":{
     "Version" : ["Version","0.0.1"],

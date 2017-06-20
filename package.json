@@ -1,6 +1,6 @@
 {
   "name": "---ProjectName---",
-  "version": "--Version---",
+  "version": "---Version---",
   "description": "---Description---",
   "dependencies": {
     "gulp": "^3.5.6",

@@ -11,8 +11,8 @@
     "src" : ["Source","index.html"]
   },
   "auto":{
-    "id" : ["Project Name","l"],
-    "module" : ["Project Name","c"],
-    "constant" : ["Project Name","u"]
+    "id" : ["ProjectName","l"],
+    "module" : ["ProjectName","c"],
+    "constant" : ["ProjectName","u"]
   }
 }
